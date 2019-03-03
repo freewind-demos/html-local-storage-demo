@@ -1,8 +1,6 @@
-Html Hello World Demo
-=====================
+Html Local Storage Demo
+=======================
 
 ```
 open index.html
 ```
-
-You will see `Hello, World!` on page.
